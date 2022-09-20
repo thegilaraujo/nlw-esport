@@ -1,4 +1,4 @@
-# Projeto NLW E-Sport
+# NLW E-Sport
 
 > Trilha Explorer
 
@@ -6,16 +6,17 @@ Projeto feito seguindo as aulas da [Rocketseat](https://www.rocketseat.com.br/),
 
 ## 🛠️ Tecnologias
 
-✅ **HTML**
-✅ **CSS**
-✅ **Git e GitHub**
+✅ HTML
+✅ CSS
+✅ Git e GitHub
 
-## 🖼️ PREVIEW
+#
+## 🌅 PREVIEW
 
-![preview](./.github/1.png)
+![preview](./.github/preview.png)
 
-####[🔗Clique aqui para acessar](https://app.netlify.com/sites/luxury-semolina-7c57db/overview)
+[🔗Clique aqui para acessar](https://app.netlify.com/sites/luxury-semolina-7c57db/overview)
 
 ### ❤️ Contato
 
-####**gildevan.araujo@outlook.com.br**
+**gildevan.araujo@outlook.com.br**
