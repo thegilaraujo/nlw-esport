@@ -10,12 +10,11 @@ Projeto feito seguindo as aulas da [Rocketseat](https://www.rocketseat.com.br/),
 ✅ CSS
 ✅ Git e GitHub
 
-#
 ## 🌅 PREVIEW
 
 ![preview](./.github/preview.png)
 
-[🔗Clique aqui para acessar](https://app.netlify.com/sites/luxury-semolina-7c57db/overview)
+[🔗Clique aqui para acessar](https://luxury-semolina-7c57db.netlify.app/)
 
 ### ❤️ Contato
 
